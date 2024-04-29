@@ -1,5 +1,5 @@
 # Obsidian LifeOS
-
+<!-- 
 > Previously Used Name: Obsidian Periodic PARA
 
 <p align="center"><a title="中文版本" href="https://github.com/quanru/obsidian-periodic-para/blob/main/README-ZH.md">中文版本</a>  |  English Version</p>
@@ -34,18 +34,15 @@ Also, I relied on the code from these excellent plugins:
 
 ## Donations
 
-If this plugin do help you, please buy me a cup of coffee on [buymeacoffee](https://www.buymeacoffee.com/leyang).
+If this plugin do help you, please buy me a cup of coffee on [buymeacoffee](https://www.buymeacoffee.com/jeremyang).
 
 <a href="https://www.buymeacoffee.com/leyang"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=leyang&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 ---
 
 Or Alipay
-
-<img alt="Alipay" src="https://quanru.github.io/img/alipay-qr.jpg" width="200"/>
+![]()
 
 ---
-
 Or WeChat
-
-<img alt="WeChatPay" src="https://quanru.github.io/img/wechat-qr.jpg" width="200"/>
+![]() -->

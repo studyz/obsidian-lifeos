@@ -34,18 +34,18 @@
 
 ## 捐赠
 
-如果这个插件对您有帮助，请在[buymeacoffee](https://www.buymeacoffee.com/leyang)上给我买杯咖啡。
+如果这个插件对您有帮助，请在[buymeacoffee](https://www.buymeacoffee.com/jeremyang)上给我买杯咖啡。
 
-<a href="https://www.buymeacoffee.com/leyang"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=leyang&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<!-- <a href="https://www.buymeacoffee.com/leyang"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=leyang&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a> -->
 
 ---
 
 或者支付宝
 
-<img alt="Alipay" src="https://quanru.github.io/img/alipay-qr.jpg" width="200"/>
+<!-- <img alt="Alipay" src="https://quanru.github.io/img/alipay-qr.jpg" width="200"/> -->
 
 ---
 
 或者微信
 
-<img alt="WeChatPay" src="https://quanru.github.io/img/wechat-qr.jpg" width="200"/>
+<!-- <img alt="WeChatPay" src="https://quanru.github.io/img/wechat-qr.jpg" width="200"/> -->
